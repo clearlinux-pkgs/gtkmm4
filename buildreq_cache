@@ -1,0 +1,5 @@
+4.14.0
+doxygen
+pkgconfig(cairomm-1.16)
+pkgconfig(mm-common-libstdc++)
+pkgconfig(pangomm-2.48)
